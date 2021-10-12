@@ -19,8 +19,8 @@ In this project I:
 ## Running the Python script
 ### Setup
 
-1. python3 -m venv ~/.dockerproj
-2. source ~/.dockerproj/bin/activate
+1. python3 -m venv ~/.devops
+2. source ~/.devops/bin/activate
 3. make install
 
 ### Three ways to run the application
