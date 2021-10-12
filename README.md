@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![archyemi](https://circleci.com/<VCS>/archyemi/operationalize_ml.svg?style=svg)](https://app.circleci.com/pipelines/github/archyemi/operationalize_ml?branch=main)
 
 ## Project Overview
 
