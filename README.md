@@ -1,4 +1,4 @@
-[![archyemi](https://circleci.com/<VCS>/archyemi/operationalize_ml.svg?style=shield)](https://app.circleci.com/pipelines/github/archyemi/operationalize_ml?branch=main)
+[![CircleCI](https://circleci.com/gh/archyemi/operationalize_ml/tree/main.svg?style=svg)](https://circleci.com/gh/archyemi/operationalize_ml/tree/main)
 
 ## Project Overview
 
