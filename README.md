@@ -17,12 +17,13 @@ In this project I:
 ---
 
 ## Running the Python script
+### Setup
 
 1. python3 -m venv ~/.dockerproj
 2. source ~/.dockerproj/bin/activate
 3. make install
 
-# three ways to run the application
+### Three ways to run the application
 1. Standalone:  `python app.py`
 2. Run in Docker:  `./run_docker.sh`
 3. Run in Kubernetes:  `./run_kubernetes.sh`
